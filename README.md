@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/L5IljOSeFq8P6/giphy.gif" width="200" />
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFC4C4&center=true&width=435&lines=Hi%2C+I'm+Farcy+Acosta" alt="Typing SVG" /></a>
+
     <h3 align="center">
 I am a developer cybersecurity student
   </h3>
