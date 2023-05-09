@@ -7,12 +7,8 @@
     <h3 align="center">A passionate pentester from México.</h3>
 </div>
 
-<p align="center">
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" /></a></p>
 
-
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,php" /></a></p>
-
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,php" /></a></p>
 
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash,git" /></a></p>
 
