@@ -8,9 +8,7 @@
 <div id="badges" align="center">
 
     <a href"https://twitter.com/ke0pZerk" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter phobos" />
-    </a>
+        <img src="https://img.shields.io/twitter/follow">
 </div>
  
 </div>
