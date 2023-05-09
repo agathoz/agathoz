@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/L5IljOSeFq8P6/giphy.gif" width="200" />
-  
-      <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=rubik&weight=800&pause=1000&color=D000F7BF&center=&vCenter=&repeat=&width=435&lines=my+name+is+phoboz;------%3Ea+developer+cybersecurity+student" alt="Typing SVG" /></a></center>
+  </div>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=rubik&weight=800&pause=1000&color=D000F7BF&center=&vCenter=&repeat=&width=435&lines=my+name+is+phoboz;------%3Ea+developer+cybersecurity+student" alt="Typing SVG" /></a></center>
     </img>
 </div>
 <br>
