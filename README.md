@@ -6,9 +6,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=rubik&weight=800&pause=1000&color=D000F7BF&center=&vCenter=&repeat=&width=435&lines=my+name+is+phoboz;---%3Ea+developer+cybersecurity+student;A+passionate+pentester+from+M%C3%A9xico.+" alt="Typing SVG" /></a>
    
 <div id="badges" align="center">
-
     <a href"https://twitter.com/ke0pZerk" target="_blank">
-        <img src="https://img.shields.io/twitter/follow">
+        <img src="https://img.shields.io/twitter/follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fke0pZerk"        alt="Twitter Badge" />
+    </a>
+</div>
 </div>
  
 </div>
