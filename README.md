@@ -5,9 +5,16 @@
     <div id="tos" align="center"> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=rubik&weight=800&pause=1000&color=D000F7BF&center=&vCenter=&repeat=&width=435&lines=my+name+is+phoboz;---%3Ea+developer+cybersecurity+student;A+passionate+pentester+from+M%C3%A9xico.+" alt="Typing SVG" /></a>
 </div>    
+<center>
+  <p style="color:#f2b3c4";> /skills/</p>
+</center>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,php" /></a></p>
 
+  <p style="color:#f2b3c4";> /dev/skils/</p>
+
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash,neovim,git" /></a></p>
+
+  <p style="color:#f2b3c4";> /hobby/personal/</p>
 
 
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bots" /></a></p>
