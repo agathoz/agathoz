@@ -7,5 +7,5 @@
 </div>    
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,php" /></a></p>
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash,git" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash,vim,git" /></a></p>
 
