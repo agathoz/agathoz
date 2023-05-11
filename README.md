@@ -7,7 +7,7 @@
 </div>    
 <center>
   <p style="color:red";> /skills/</p>
-</center>
+
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,cpp,py,php" /></a></p>
 
   <p style="color:#f2b3c4";> /dev/skils/</p>
@@ -19,5 +19,5 @@
 
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bots" /></a></p>
 
-
+</center>
 
