@@ -23,7 +23,7 @@
         <li> 🌱 Im currently learning rust </li>
         <li> 💬 Ask me about linux </li>
         <li> 🔭 Im currently working on python scrips</li>
-        <li> 📚 I love reading books  </li>
+        <li> 📚 I love reading books and play games </li>
     </ul>
     <p></p><strong> Contact me </strong></p>
 <p><a href="https://x.com/ke0pZerk"><img src="https://skillicons.dev/icons?i=twitter" /> @ke0pZerk</a>
