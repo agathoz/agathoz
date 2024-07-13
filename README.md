@@ -20,7 +20,7 @@
 </div>
  <ul>
         <li> 🇮🇸 Im learning icelandic</li>
-        <li> 🌱 Im currently learning rust </li>
+        <li> 🌱 Im currently learning rust php  </li>
         <li> 💬 Ask me about linux </li>
         <li> 🔭 Im currently working on python scrips</li>
         <li> 📚 I love reading books and play games </li>
