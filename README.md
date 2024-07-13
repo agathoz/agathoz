@@ -26,9 +26,4 @@
         <li> 📚 I love reading books and play games </li>
     </ul>
     <p></p><strong> Contact me </strong></p>
-<p><a href="https://x.com/ke0pZerk"><img src="https://skillicons.dev/icons?i=twitter" /> @ke0pZerk</a>
-</p>
-<p><a href="https://www.linkedin.com/in/eri-hacks" /><img src="https://skillicons.dev/icons?i=linkedin"/> Erilin </a></p>
-<p><img src="https://skillicons.dev/icons?i=discord"/></a> @phobozerk </p>
-
-<hr>
+kramnd@proton.me
