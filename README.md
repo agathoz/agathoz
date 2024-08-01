@@ -21,12 +21,8 @@
     
 </div>
 </div>
-<div>
-    
-
  <ul>
-    
-        <li> 🌱 Im currently learning rust and zig  </li>
+  <li> 🌱 Im currently learning rust and zig  </li>
         <li> 💬 Ask me about linux </li>
         <li> 🔭 Im currently working on python scrips</li>
         <li> 📚 I love reading books </li>
