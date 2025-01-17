@@ -11,7 +11,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=py,rust,cpp,kali" /></a>
 
   
-<p align="center"><a><img src="https://skillicons.dev/icons?i=linux,bash,git,neovim,vscode,obsidian,notion" /></a></p>
+<p align="center"><a><img src="https://skillicons.dev/icons?i=linux,bash,git,neovim,vscode" /></a></p>
 
 <p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1005&color=DEA4F7&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=%2Fhobby%3E+++" alt="Typing SVG" /></a>
     
