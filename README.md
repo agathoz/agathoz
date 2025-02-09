@@ -46,10 +46,10 @@
 
 <p>🔭 Current Projects</p>
 🐍 Python Scripts   : Many scripts are made with python, many tools too .<p>
-🖥️ Bash scripts     : Automating tasks and building tools for fun and productivity
-🤖 Arduino Projects : Tinkering with hardware and IoT. </p>
+🖥️ Bash scripts     : Automating tasks and building tools for fun and productivity</p>
+<p>🤖 Arduino Projects : Tinkering with hardware and hacking projects. </p>
 
-
+i realy like this :
 <ul>
 <li> Reading Books: Love diving into tech books.</li>
 <li> indie gmames love: I realy love games .</li>
