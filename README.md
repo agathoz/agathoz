@@ -31,20 +31,24 @@
 <h2>About me</h2> 
 🌱 What I'm Currently Learning
 <ul>
-<li> 🦀 **Rust**: Exploring systems programming and memory safety.</li>
-<li> ⚡ **Zig**: Experimenting with this modern alternative to C.</li>
+<li> 🦀 Rust  : Exploring systems programming and memory safety.</li>
+<li> ⚡ Zig   : Experimenting with this modern alternative to C.</li>
+<li> 🐧 linux : Always learn something new never to learn</li>
 </ul>
 
-<p>🔭 Current Projects</p>
-🐍 Python Scripts : Automating tasks and building tools for fun and productivity.<p>
-🤖 Arduino Projects : Tinkering with hardware and IoT. </p>
 
-🎯 Hobbies
+<h3>🎯 Hobbies</h3>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=bots,arduino,arch" />
 </a>
 </p>
+
+<p>🔭 Current Projects</p>
+🐍 Python Scripts   : Many scripts are made with python, many tools too .<p>
+🖥️ Bash scripts     : Automating tasks and building tools for fun and productivity
+🤖 Arduino Projects : Tinkering with hardware and IoT. </p>
+
 
 <ul>
 <li> Reading Books: Love diving into tech books.</li>
