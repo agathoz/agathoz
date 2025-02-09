@@ -14,14 +14,12 @@
 <img src="https://skillicons.dev/icons?i=py,rust,zig,cpp,kali,linux,bash,git,neovim," />
 </a>
 </p>
-<--! 
+<!--
 <h2>📊 GitHub Stats</h2>
-
 <h3>🌈 My GitHub Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=agathoz&show_icons=true&title_color=FF69B4&icon_color=DEA4F7&text_color=FFFFFF&bg_color=1E1E1E" />
 </p>
-
 <h3>🌟 Top Languages</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathoz&layout=compact&langs_count=8&theme=onedark" />
