@@ -9,27 +9,49 @@
 </a>
 </p>
     <hr> 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1005&color=DEA4F7&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=%2Fskills%3E+++" alt="Typing SVG" /></a>
+🌟 Skills & Tools
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,rust,cpp,kali,linux,bash,git,neovim," />
+</a>
+</p>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=py,rust,cpp,kali" /></a>
+📊 GitHub Stats
 
-  
-<p align="center"><a><img src="https://skillicons.dev/icons?i=linux,bash,git,neovim,vscode" /></a></p>
+🌈 My GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=agathoz&show_icons=true&title_color=FF69B4&icon_color=DEA4F7&text_color=FFFFFF&bg_color=1E1E1E" />
+</p>
 
-<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1005&color=DEA4F7&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=%2Fhobby%3E+++" alt="Typing SVG" /></a>
-    
-<p align="center"><a><img src="https://skillicons.dev/icons?i=bots,arduino,arch"/></p>
+🌟 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathoz&layout=compact&langs_count=8&theme=onedark" />
+</p>
 
-</a></p>
-    
-</div>
-</div>
- <ul>
-  <li> 🌱 Im currently learning rust and zig  </li>
-        <li> 💬 Ask me about linux </li>
-        <li> 🔭 Im currently working on python scrips</li>
-        <li> 📚 I love reading books </li>
-    </ul>
-</div>    
-    <p></p><strong> Contact me </strong></p>
-kramnd@proton.me
+About me 
+🌱 What I'm Currently Learning
+<ul>
+<li> 🦀 **Rust**: Exploring systems programming and memory safety.</li>
+<li> ⚡ **Zig**: Experimenting with this modern alternative to C.</li>
+</ul>
+
+🔭 Current Projects
+🐍 Python Scripts : Automating tasks and building tools for fun and productivity.
+🤖 Arduino Projects : Tinkering with hardware and IoT.
+
+🎯 Hobbies
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=bots,arduino,arch" />
+</a>
+</p>
+
+<ul>
+<li> 📚 **Reading Books**: Love diving into tech books.</li>
+<li> ☕ **indie gmames love**: I realy love games .</li>
+</ul>
+
+📬 Contact Me
+<p align="center">
+<strong>Email:</strong> <a href="mailto:kramnd@proton.me">kramnd@proton.me</a>
+
