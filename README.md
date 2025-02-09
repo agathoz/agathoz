@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=py,rust,zig,cpp,kali,linux,bash,git,neovim," />
 </a>
 </p>
-
+<--! 
 <h2>📊 GitHub Stats</h2>
 
 <h3>🌈 My GitHub Stats</h3>
@@ -26,7 +26,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathoz&layout=compact&langs_count=8&theme=onedark" />
 </p>
-
+-->
 <h2>About me</h2> 
 
 
