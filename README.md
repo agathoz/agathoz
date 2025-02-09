@@ -55,4 +55,4 @@
 <p align="center">
 <strong>Email:</strong> <a href="mailto:kramnd@proton.me">kramnd@proton.me</a>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU5cXByaHF6cDI5YjVyYzd6Mng5MWxwcjh6ajE2cml2cng1eTJvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif
-" width="220" />
+" width="220" /><iframe src="https://giphy.com/embed/udK21RQeWtaGQ" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/serial-experiments-lain-udK21RQeWtaGQ">via GIPHY</a></p>
