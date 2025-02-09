@@ -54,4 +54,4 @@
 📬 Contact Me
 <p align="center">
 <strong>Email:</strong> <a href="mailto:kramnd@proton.me">kramnd@proton.me</a>
-<img src="https://giphy.com/embed/udK21RQeWtaGQ" width="220"> </img> 
+<img src="https://media.tenor.com/A-Cc_uGZVQEAAAAj/lain-serial-experiments-lain.gif" width="220"> </img> 
