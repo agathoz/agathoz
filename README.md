@@ -54,4 +54,5 @@
 📬 Contact Me
 <p align="center">
 <strong>Email:</strong> <a href="mailto:kramnd@proton.me">kramnd@proton.me</a>
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU5cXByaHF6cDI5YjVyYzd6Mng5MWxwcjh6ajE2cml2cng1eTJvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif
+" width="220" />
