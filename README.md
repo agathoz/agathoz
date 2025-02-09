@@ -35,9 +35,9 @@
 <li> ⚡ **Zig**: Experimenting with this modern alternative to C.</li>
 </ul>
 
-🔭 Current Projects
+<p>🔭 Current Projects</p>
 🐍 Python Scripts : Automating tasks and building tools for fun and productivity.<p>
-🤖 Arduino Projects : Tinkering with hardware and IoT.
+🤖 Arduino Projects : Tinkering with hardware and IoT. </p>
 
 🎯 Hobbies
 <p align="center">
