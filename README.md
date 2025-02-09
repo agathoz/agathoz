@@ -1,4 +1,4 @@
-<h2>🌟 Hi, I'm Agathos! 🌟</h2>
+<h2>🌟 Hi, I'm Agathos!  A red panda  🌟</h2>
 <div align="center">
 <img src="https://media.giphy.com/media/L5IljOSeFq8P6/giphy.gif" width="220" />
 </div>
