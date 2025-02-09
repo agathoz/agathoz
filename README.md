@@ -9,7 +9,7 @@
 </a>
 </p>
     <hr> 
-🌟 Skills & Tools
+<h2>🌟 Skills & Tools</h2>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,rust,cpp,kali,linux,bash,git,neovim," />
@@ -28,7 +28,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathoz&layout=compact&langs_count=8&theme=onedark" />
 </p>
 
-About me 
+<h2>About me</h2> 
 🌱 What I'm Currently Learning
 <ul>
 <li> 🦀 **Rust**: Exploring systems programming and memory safety.</li>
@@ -36,7 +36,7 @@ About me
 </ul>
 
 🔭 Current Projects
-🐍 Python Scripts : Automating tasks and building tools for fun and productivity.
+🐍 Python Scripts : Automating tasks and building tools for fun and productivity.<p>
 🤖 Arduino Projects : Tinkering with hardware and IoT.
 
 🎯 Hobbies
@@ -47,8 +47,8 @@ About me
 </p>
 
 <ul>
-<li> 📚 **Reading Books**: Love diving into tech books.</li>
-<li> ☕ **indie gmames love**: I realy love games .</li>
+<li> Reading Books: Love diving into tech books.</li>
+<li> indie gmames love: I realy love games .</li>
 </ul>
 
 📬 Contact Me
