@@ -40,7 +40,7 @@
 <h3>🎯 Hobbies</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=bots,arduino,arch,actix" />
+<img src="https://skillicons.dev/icons?i=bots,arduino,arch,actix,svelte,mongodb" />
 </a>
 </p>
 
