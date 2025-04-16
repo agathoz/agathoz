@@ -30,9 +30,9 @@
 
 🌱 What I'm Currently Learning
 <ul>
-<li> 🦀 Rust  : Exploring systems programming and memory safety.</li>
-<li> ⚡ Zig   : Experimenting with this modern alternative to C.</li>
-<li> 🐧 Linux : Deep-diving into kernel modules and system internals.</li>
+<li> 🦀 Rust :: Exploring systems programming and memory safety.</li>
+<li> ⚡ Zig  :: Experimenting with this modern alternative to C.</li>
+<li> 🐧 Linux :: Deep-diving into kernel modules and system internals.</li>
    
 </ul>
 
@@ -47,15 +47,15 @@
 
 <h2>🔭 Current Projects</h2>
 <ul>
-  <li>🐍 Python Scripts  :  Automating tasks and building tools for productivity.</li>
-  <li>🖥️ Bash Scripts    :  Streamlining workflows and automating repetitive tasks.</li>
-  <li>🤖 Arduino Projects: Tinkering with hardware and IoT experiments.</li>
+  <li>🐍 Python Scripts  ::  Automating tasks and building tools for productivity.</li>
+  <li>🖥️ Bash Scripts    ::  Streamlining workflows and automating repetitive tasks.</li>
+  <li>🤖 Arduino Projects :: Tinkering with hardware and IoT experiments.</li>
 </ul>
 
 <h3> i realy love this</h3>
 <ul>
-  <li>📚 Reading Books: Love diving into tech books like *"The Art of Exploitation"* and sci-fi novels.</li>
-  <li>🎮 Indie Games : Passionate about games like Celeste, Hollow Knight, and Undertale.</li>
+  <li>📚 Reading Books :: Love diving into tech books like *"The Art of Exploitation"* and sci-fi novels.</li>
+  <li>🎮 Indie Games :: Passionate about games like Celeste, Hollow Knight, and Undertale.</li>
 </ul>
 
 📬 Contact Me
