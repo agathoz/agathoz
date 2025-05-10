@@ -13,6 +13,11 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,rust,zig,cpp,kali,aws,docker,linux,bash,git,neovim," />
 </a>
+<h3>🎯 Hobbies</h3>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=bots,arduino,arch,actix,svelte,mongodb" />
+</a>
 </p>
 <h2>📊 GitHub Stats</h2>
 <h3>🌈 My GitHub Stats</h3>
@@ -30,11 +35,6 @@
 <li> ⚡ Zig  :: Experimenting with this modern alternative to C.</li>
 <li> 🐧 Linux :: Deep-diving into kernel modules and system internals.</li>
 </ul>
-<h3>🎯 Hobbies</h3>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=bots,arduino,arch,actix,svelte,mongodb" />
-</a>
 </p>
 <h2>🔭 Current Projects</h2>
 <ul>
