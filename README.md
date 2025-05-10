@@ -14,7 +14,6 @@
 <img src="https://skillicons.dev/icons?i=py,rust,zig,cpp,kali,aws,docker,linux,bash,git,neovim," />
 </a>
 </p>
-<!--
 <h2>📊 GitHub Stats</h2>
 <h3>🌈 My GitHub Stats</h3>
 <p align="center">
@@ -24,40 +23,30 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathoz&layout=compact&langs_count=8&theme=onedark" />
 </p>
--->
 <h2>About me</h2> 
-
-
 🌱 What I'm Currently Learning
 <ul>
 <li> 🦀 Rust :: Exploring systems programming and memory safety.</li>
 <li> ⚡ Zig  :: Experimenting with this modern alternative to C.</li>
 <li> 🐧 Linux :: Deep-diving into kernel modules and system internals.</li>
-   
 </ul>
-
-
 <h3>🎯 Hobbies</h3>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=bots,arduino,arch,actix,svelte,mongodb" />
 </a>
 </p>
-
-
 <h2>🔭 Current Projects</h2>
 <ul>
   <li>🐍 Python Scripts  ::  Automating tasks and building tools for productivity.</li>
   <li>🖥️ Bash Scripts    ::  Streamlining workflows and automating repetitive tasks.</li>
   <li>🤖 Arduino Projects :: Tinkering with hardware and IoT experiments.</li>
 </ul>
-
 <h3> i realy love this</h3>
 <ul>
   <li>📚 Reading Books :: Love diving into tech books like *"The Art of Exploitation"* and sci-fi novels.</li>
   <li>🎮 Indie Games :: Passionate about games like Celeste, Hollow Knight, and Undertale.</li>
 </ul>
-
 📬 Contact Me
 <p align="center">
 <strong>Email:</strong> <a href="mailto:kramnd@proton.me">kramnd@proton.me</a> </p>
