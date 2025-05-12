@@ -11,7 +11,7 @@
 <h2>🌟 Skills & Tools</h2>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,rust,zig,cpp,kali,caddy,docker,linux,bash,git,neovim," />
+<img src="https://skillicons.dev/icons?i=py,rust,zig,cpp,kali,docker,linux,bash,git,neovim," />
 </a>
 <h3>🎯 Hobbies</h3>
 <p align="center">
