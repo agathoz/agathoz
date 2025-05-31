@@ -19,11 +19,6 @@
 <img src="https://skillicons.dev/icons?i=bots,zig,arduino,arch,actix,svelte,mongodb" />
 </a>
 </p>
-<h2>📊 GitHub Stats</h2>
-<h3>🌈 My GitHub Stats</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=agathoz&show_icons=true&title_color=FF69B4&icon_color=DEA4F7&text_color=FFFFFF&bg_color=1E1E1E" />
-</p>
 📬 Contact Me
 <p align="center">
 <strong>Email:</strong> <a href="mailto:kramnd@proton.me">kramnd@proton.me</a> </p>
