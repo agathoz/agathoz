@@ -16,7 +16,7 @@
 <h3>🎯 Hobbies</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=bots,zig,arduino,arch,actix,svelte,mongodb" />
+<img src="https://skillicons.dev/icons?i=bots,zig,arduino,arch,actix,mongodb" />
 </a>
 </p>
 📬 Contact Me
