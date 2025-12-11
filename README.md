@@ -26,7 +26,7 @@
 <hr>
 <a href="https://nogithub.codeberg.page"
   ><img
-    src="https://nogithub.codeberg.page/badge.svg"
+    src="https://nogithub.codeberg.page/badge.svg"  width="100"
     alt="Please don't upload to GitHub"
 /></a>
 <a href="https://codeberg.org/agathoz">
