@@ -1,6 +1,6 @@
 <h2>🌟 Hi, I'm Elizabeth!🌟</h2>
 <div align="center">
-<img src="https://media.giphy.com/media/L5IljOSeFq8P6/giphy.gif" width="220" />
+![banner]<img src="https://media.giphy.com/media/L5IljOSeFq8P6/giphy.gif" width="220" />
 </div>
 <p align="center">
 <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 </a>
 </p>
     <hr> 
-    [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
+    [!][Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 <h2>🌟 Skills & Tools</h2>
 <p align="center">
 <a href="https://skillicons.dev">
