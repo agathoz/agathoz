@@ -28,8 +28,10 @@
 <a href="https://codeberg.org/agathoz">
 <img src="https://files.catbox.moe/4yo6pz.svg" width="96"
 /></a>
-<a
-<img
-    src="https://nogithub.codeberg.page/badge.svg" 
-    alt="Please don't upload to GitHub">
-    </a>
+    
+<a href="https://nogithub.codeberg.page"
+  ><img
+    src="https://nogithub.codeberg.page/badge.svg"
+    alt="Please don't upload to GitHub"
+/></a>
+
