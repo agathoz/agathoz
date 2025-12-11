@@ -10,11 +10,7 @@
 
 
 <p><h2>🌟 Skills & Tools</h2>
-<a href="https://nogithub.codeberg.page"
-  ><img
-    src="https://nogithub.codeberg.page/badge.svg"
-    alt="Please don't upload to GitHub"
-/></a>
+
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,rust,cpp,kali,docker,linux,bash,git,neovim," />
@@ -24,4 +20,13 @@
 <img src="https://skillicons.dev/icons?i=bots,zig,arduino,arch,actix,mongodb" />
 </a>
 </p>
-<img src="https://media.tenor.com/A-Cc_uGZVQEAAAAj/lain-serial-experiments-lain.gif" width="220"> </img> 
+
+
+<img src="https://media.tenor.com/A-Cc_uGZVQEAAAAj/lain-serial-experiments-lain.gif" width="220"> </img>
+<hr>
+<a href="https://nogithub.codeberg.page"
+  ><img
+    src="https://nogithub.codeberg.page/badge.svg"
+    alt="Please don't upload to GitHub"
+/></a>
+https://codeberg.org/agathoz
