@@ -25,9 +25,13 @@
 <img src="https://media.tenor.com/A-Cc_uGZVQEAAAAj/lain-serial-experiments-lain.gif" width="220"> </img>
 <hr>
 
-<a href="https://codeberg.org/agathoz" <img src="https://files.catbox.moe/4yo6pz.svg" width="96"/></a>
+
+<a href="https://codeberg.org/agathoz">
+<img src="https://files.catbox.moe/4yo6pz.svg" width="96"
+/></a>
     
-<a href="htps://nogithub.codeberg.page"<img
+<a href="https://nogithub.codeberg.page">
+  <img  
     src="https://nogithub.codeberg.page/badge.svg"
     alt="Please don't upload to GitHub"
 /></a>
