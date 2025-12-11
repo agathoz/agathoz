@@ -1,6 +1,6 @@
 <h2>🌟 Hi, I'm Elizabeth!🌟</h2>
 <div align="center">
-![banner]<img src="https://media.giphy.com/media/L5IljOSeFq8P6/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/L5IljOSeFq8P6/giphy.gif" width="220" />
 </div>
 <p align="center">
 <a href="https://git.io/typing-svg">
