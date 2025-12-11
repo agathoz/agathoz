@@ -29,4 +29,6 @@
     src="https://nogithub.codeberg.page/badge.svg"
     alt="Please don't upload to GitHub"
 /></a>
-https://codeberg.org/agathoz
+<a href="https://codeberg.org/agathoz">
+<img src="https://files.catbox.moe/4yo6pz.svg"
+/></a>
