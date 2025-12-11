@@ -18,7 +18,6 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,rust,cpp,kali,docker,linux,bash,git,neovim," />
 </a>
-<h3>🎯 Hobbies</h3>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=bots,zig,arduino,arch,actix,mongodb" />
