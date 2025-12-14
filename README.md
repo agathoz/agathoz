@@ -26,9 +26,6 @@
 <hr>
 
 
-<a href="https://codeberg.org/agathoz">
-<img src="https://files.catbox.moe/4yo6pz.svg" width="96"
-/></a>
     
 <a href="https://nogithub.codeberg.page">
   <img  
