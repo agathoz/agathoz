@@ -13,11 +13,11 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,rust,cpp,kali,docker,linux,bash,git,neovim," />
+<img src="https://skillicons.dev/icons?i=py,zig,asmb,rust,cpp,docker,linux,bash,git,neovim," />
 </a>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=bots,zig,arduino,arch,actix,mongodb,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino,actix,raspberrypi" />
 </a>
 </p>
 
