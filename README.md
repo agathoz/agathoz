@@ -17,7 +17,7 @@
 </a>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=arduino,actix,raspberrypi,docker,linux,nix,vim" />
+<img src="https://skillicons.dev/icons?i=arduino,actix,raspberrypi,docker,linux,vim" />
 </a>
 </p>
 
