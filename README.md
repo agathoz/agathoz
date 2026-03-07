@@ -10,7 +10,7 @@
 
 
 <p><h2>🌟 Skills & Tools</h2>
-
+    <center>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=C,cpp,go,zig,rust,bash,git" />
@@ -21,7 +21,7 @@
 </a>
 </p>
 
-
+</center>
 <img src="https://media.tenor.com/A-Cc_uGZVQEAAAAj/lain-serial-experiments-lain.gif" width="220"> </img>
 <hr>
 
