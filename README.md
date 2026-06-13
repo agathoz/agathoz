@@ -12,12 +12,13 @@
 <p><h2>🌟 Skills & Tools</h2>
     <center>
 <p align="center">
+    
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=C,cpp,go,zig,rust,bash,git" />
+<img src="https://skillicons.dev/icons?i=C,cpp,go,zig,rust,bash,nix" />
 </a>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=arduino,actix,raspberrypi,docker,linux,vim" />
+<img src="https://skillicons.dev/icons?i=arduino,actix,git,docker,linux,neovim" />
 </a>
 </p>
 
