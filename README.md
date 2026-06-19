@@ -43,11 +43,11 @@ Clik me! ---> [![AGATHOZ!](https://www.hackthebox.eu/badge/image/834128)](https:
 
 ![Lain](https://media.tenor.com/A-Cc_uGZVQEAAAAj/lain-serial-experiments-lain.gif)
 
-</div>
 
 ---
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/Agathoz)
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 [![Open Source](https://img.shields.io/badge/Open_Source-4CB966?style=flat&logo=open-source-initiative&logoColor=white)](https://opensource.org/osd)
 ![Privacy First](https://img.shields.io/badge/Privacy_First-000000?style=flat&logo=cat&logoColor=wite)
+</div>
 
