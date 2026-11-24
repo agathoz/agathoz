@@ -4,8 +4,7 @@
   <summary> <h1> ><b>⚡ <img src="owo/AGA.png" /> ⚡</b> </h1></summary>
  
  <img src="https://media.tenor.com/96syOlnaSGsAAAAd/zeraora-pok%C3%A9mon-zeraora.gif" width="100%" />
-
-
+ 
 </details> 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&pause=1005&color=DEA4F7&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=Hacker%2C+programmer%2C+i%27m+just+curious+%3AD;CTF+player%3A+No+system+is+Safe+%3E%3A3c;Cybersecurity+enthusiast) 
@@ -77,10 +76,6 @@ Click my domains!
 </div>
 <br>
 
-[![Open Source](https://img.shields.io/badge/Open_Source-4CB966?style=flat&logo=open-source-initiative&logoColor=white)](https://opensource.org/osd)
-![Privacy First](https://img.shields.io/badge/Privacy_First-000000?style=flat&logo=cat&logoColor=wite)
-[![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)
-</div>
 <br>
 
 
