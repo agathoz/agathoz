@@ -1,14 +1,24 @@
  <div align="center">
 
-# ⚡ Hi, I'm Elizabeth! ⚡
+<details>
+  <summary> <h1> ><b>⚡ <img src="owo/AGA.png" /> ⚡</b> </h1></summary>
+ 
+ <img src="https://media.tenor.com/96syOlnaSGsAAAAd/zeraora-pok%C3%A9mon-zeraora.gif" width="100%" />
 
- <img src="https://media.tenor.com/96syOlnaSGsAAAAd/zeraora-pok%C3%A9mon-zeraora.gif" width="360" />
 
+</details> 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&pause=1005&color=DEA4F7&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=Hacker%2C+programmer%2C+i%27m+just+curious+%3AD;CTF+player%3A+No+system+is+Safe+%3E%3A3c;Cybersecurity+enthusiast) 
 
-Clik me! ---> [![AGATHOZ!](https://www.hackthebox.eu/badge/image/834128)](https://app.hackthebox.com/users/834128)
 
+Click my domains!
+<p>
+ 
+[![AGATHOZ!](https://www.hackthebox.eu/badge/image/834128)](https://app.hackthebox.com/users/834128)
+
+<a href="https://agathoz.el" target="_blank" rel="noopener noreferrer">
+  <img src="owo/i-heart-slot.gif" alt="Agathoz" />
+</a>
 
 
 ## ⚡ Skills & Tools ⚡
@@ -36,11 +46,56 @@ Clik me! ---> [![AGATHOZ!](https://www.hackthebox.eu/badge/image/834128)](https:
 
 
 ---
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/Agathoz)
-[![Tangled Badge Blue Accent Color](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=tangled-badge-color.svg&raw=true&ref=main&repo=did%3Aplc%3Aijcic4rgedbduezcfnmyvsqb)](https://tangled.org/agathoz.tngl.sh)
-[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
+
+
+<br>
+
+<div style="display: flex; gap: 7px; align-items: center; flex-wrap: wrap; justify-content: center;">
+  <a href="https://codeberg.org/agathoz" target="_blank" rel="noopener noreferrer">
+    <img src="owo/codeberg.temp.git.gif" alt="Codeberg de Agathoz" />
+  </a>
+
+  <a href="https://tangled.org" target="_blank" rel="noopener noreferrer">
+    <img src="owo/org.tangled.temp.git.gif" alt="Tangled de Agathoz"/>
+  </a>
+
+  <a href="https://gitlab.com" target="_blank" rel="noopener noreferrer">
+    <img src="owo/gitlab.gif" alt="GitLab de Agathoz" />
+  </a>
+
+  <a href="https://npmx.dev" target="_blank" rel="noopener noreferrer">
+<img src="owo/fuckai.gif" alt="No AI" />
+  </a>
+
+  <img src="owo/csspasion.gif" />
+
+<br>
+  
+<a href="https://nogithub.codeberg.page">
+  <img src="owo/nogit.png" alt="Please don't upload to GitHub" />
+</a>
+</div>
+<br>
+
 [![Open Source](https://img.shields.io/badge/Open_Source-4CB966?style=flat&logo=open-source-initiative&logoColor=white)](https://opensource.org/osd)
 ![Privacy First](https://img.shields.io/badge/Privacy_First-000000?style=flat&logo=cat&logoColor=wite)
 [![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)
 </div>
+<br>
 
+
+```text
+ ______________________
+
+1. No system is safe
+2. Aim for the impossible
+3. Have fun in cyberspace and meatspace
+ ----------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+<sub>Made with :heart: and coffee  :3</sub>
