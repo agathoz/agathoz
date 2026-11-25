@@ -16,11 +16,10 @@ Click  here !
 <p>
  
 [![AGATHOZ!](https://www.hackthebox.eu/badge/image/834128)](https://app.hackthebox.com/users/834128)
-
-<a href="https://agathoz.el" target="_blank" rel="noopener noreferrer">
-  <img src="owo/i-heart-slot.gif" alt="Agathoz" />
+ 
+<a href="https://belami.neocities.org/" target="_blank" rel="noopener noreferrer">
+  <img src="i-heart-slot.gif" alt="Agathoz" />
 </a>
-
 
 ## ⚡ Skills & Tools ⚡
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -70,8 +69,6 @@ Click  here !
 
   <img src="owo/csspasion.gif" />
 
-<br>
-  
 <a href="https://nogithub.codeberg.page">
   <img src="owo/nogit.png" alt="Please don't upload to GitHub" />
 </a>
@@ -83,7 +80,6 @@ Click  here !
 
 ```text
  ______________________
-
 1. No system is safe
 2. Aim for the impossible
 3. Have fun in cyberspace and meatspace
@@ -95,4 +91,4 @@ Click  here !
                 ||     ||
 ```
 
-<sub>Made with :heart: and coffee  :3</sub>
+<sub>Made with :heart: and coffee  :3< </sub>
