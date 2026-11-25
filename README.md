@@ -9,7 +9,8 @@
 </details> 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&pause=1005&color=DEA4F7&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=Hacker%2C+programmer%2C+i%27m+just+curious+%3AD;CTF+player%3A+No+system+is+Safe+%3E%3A3c;Cybersecurity+enthusiast) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&pause=1005&color=DEA4F7&center=true&vCenter=true&repeat=true&width=435&lines=Hacker%2C+Programmer%2C+i%27m+just+curious+%3AD;CTF+player%3A+Freedom+First+%3E%3A3c;Cybersecurity+enthusiast) 
+
 
 
 Click  here !
