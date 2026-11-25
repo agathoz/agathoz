@@ -55,11 +55,11 @@ Click  here !
     <img src="owo/codeberg.temp.git.gif" alt="Codeberg de Agathoz" />
   </a>
 
-  <a href="https://tangled.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://tangled.org/agathoz.tngl.sh" target="_blank" rel="noopener noreferrer">
     <img src="owo/org.tangled.temp.git.gif" alt="Tangled de Agathoz"/>
   </a>
 
-  <a href="https://gitlab.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://gitlab.com/agathoz" target="_blank" rel="noopener noreferrer">
     <img src="owo/gitlab.gif" alt="GitLab de Agathoz" />
   </a>
 
