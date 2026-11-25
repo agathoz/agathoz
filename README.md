@@ -17,8 +17,8 @@ Click  here !
  
 [![AGATHOZ!](https://www.hackthebox.eu/badge/image/834128)](https://app.hackthebox.com/users/834128)
  
-<a href="https://belami.neocities.org/" target="_blank" rel="noopener noreferrer">
-  <img src="i-heart-slot.gif" alt="Agathoz" />
+<a href="https://belami.neocities.org/">
+  <img src="owo/i-heart-slot.gif" alt="Agathoz" />
 </a>
 
 ## ⚡ Skills & Tools ⚡
